@@ -5,7 +5,7 @@ Aprenda python!
 <ul>
   <li> Automatizar scripts de Infrastructures as Code (IaC);</li>
   <li> Desenvolver a customização de métricas de observabilidade de aplicações;</li>
-  <li> Análise quantitativa de ativos mobiliários.</li>li>
+  <li> Análise quantitativa de ativos mobiliários.</li>
 </ul> 
 
 <h2>Roteiro de estudos</h2>
